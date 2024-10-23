@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Lab3_2110215_2023_1_6530375021_Winithra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Lab3_2110215_2023_1_6530375021_Winithra_jar</output-path>
+    <root id="archive" name="Lab3_2110215_2023_1_6530375021_Winithra.jar">
+      <element id="module-output" name="Lab3_2110215_2023_1_6530375021_Winithra" />
+      <element id="module-source" name="Lab3_2110215_2023_1_6530375021_Winithra" />
+    </root>
+  </artifact>
+</component>

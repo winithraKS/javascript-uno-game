@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Lab3_2110215_2023_1_6530375021_Winithra" level="project" />
+    <orderEntry type="library" name="Lab2_2110215_2023_1_6530375021_Winithra3" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra7" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra6" level="project" />
+    <orderEntry type="library" name="LabProgmathIntelliJ" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra" level="project" />
+    <orderEntry type="library" name="Lab2_2110215_2023_1_6530375021_Winithra1" level="project" />
+    <orderEntry type="library" name="lib1" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra5" level="project" />
+    <orderEntry type="library" name="Lab2_2110215_2023_1_6530375021_Winithra2" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra4" level="project" />
+    <orderEntry type="library" name="Lab3_2110215_2023_1_6530375021_6530375021_Winithra" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra2" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra1" level="project" />
+    <orderEntry type="library" name="2110215_Lab1_2023_1_6530375021_Winithra3" level="project" />
+    <orderEntry type="library" name="Lab2_2110215_2023_1_6530375021_Winithra" level="project" />
+  </component>
+</module>
